@@ -1,0 +1,25 @@
+.navbar {
+  height: 100px;
+  .wrapper {
+    max-width: 1366px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rebeccapurple;
+    height: 100%;
+    .social {
+      display: flex;
+      flex-direction: row;
+      gap: 5px;
+      img {
+        height: 30px;
+        width: 30px;
+      }
+    }
+    span {
+     font-weight: bold;
+    };
+  }
+}

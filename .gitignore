@@ -24,4 +24,5 @@ node_modules
 *.sw?
 
 
-
+version2.*
+StarterFilesForVersion2
